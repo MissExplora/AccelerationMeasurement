@@ -1,4 +1,4 @@
-package com.example.android.accelerationmeasuring.app;
+package com.example.android.datacollection.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
